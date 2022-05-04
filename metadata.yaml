@@ -1,0 +1,39 @@
+_repo: Le-grand-secret_67863
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
+    - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2022-04-18'
+identifiers:
+  gutenberg: '67863'
+  lccn: '21015872'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=3I1GAQAAMAAJ
+pgterms:marc905: 20210410214724maeterlinc
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: France :Eugène Fasquelle,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religions'
+- !lcsh 'Mysteries, Religious'
+- !lcsh 'Theosophy'
+- !lcsh 'Occultism'
+- !lcc 'BL'
+- !lcsh 'Agnosticism'
+- GITenberg
+title: Le grand secret
+url: http://www.gutenberg.org/ebooks/67863
